@@ -7,6 +7,6 @@ Work (private repos, code walkthrough available on request):
 - Jobayan: recruitment platform, PHP on the Cradle framework (cradle-system is pinned below)
 - inFluux Studios: custom WordPress site
 - PNP iResponse: police reporting app (PHP Laravel backend)
-- Job Radar and HHHQ client portal: HTML/CSS/JS
+- Job Radar (Node.js, Express) and HHHQ client portal (HTML/CSS/JS)
 
-Project proof: https://docs.google.com/document/d/12YIMO_VylJCQlAH4fEN5hH8tkJR5u-EDT8EhjJOsGXM/edit?usp=sharing
+Project proof: https://drive.google.com/file/d/1-s24usJCUqcqZoc4Tu0j-E6r1N0-HkvS/view?usp=sharing
